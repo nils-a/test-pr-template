@@ -1,3 +1,9 @@
+---
+name: OLD style PR
+about: About this PR
+title: '[#123] <title>'
+
+---
 <!--
 Do NOT open a PR without discussing the changes on an open issue, first.
 
